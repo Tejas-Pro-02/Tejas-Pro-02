@@ -6,6 +6,17 @@
 
 ###
 
+<!-- Social Links (Dark unique style) -->
+<a href="https://x.com/Khurd_Tejas" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="35" alt="twitter logo" />
+</a>
+<a href="https://www.linkedin.com/in/tejas-s-khurd/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35" alt="linkedin logo" />
+</a>
+
+###
+
+<!-- Widgets row -->
 <div style="display: flex; gap: 20px;">
 
   <!-- Duolingo Widget -->
@@ -24,17 +35,8 @@
 
 <br clear="both">
 
-<!-- Snake animation (centered) -->
+<!-- Snake animation (centered only) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<a href="https://x.com/Khurd_Tejas" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</a>
-<a href="https://www.linkedin.com/in/tejas-s-khurd/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
 
