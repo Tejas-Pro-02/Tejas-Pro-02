@@ -17,15 +17,17 @@
 
 ###
 
-<!-- Widgets Row (true row using paragraph + images) -->
+<!-- Widgets Row (Duolingo + Languages) -->
 <p>
-  <img src="https://duolingo-stats-card.vercel.app/api?username=KhurdTejas&sort=xp&theme=dark" 
-       height="150" 
-       style="background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;" />
+  <img src="https://duolingo-stats-card.vercel.app/api?username=KhurdTejas&sort=xp&theme=light" 
+       height="160" 
+       style="background:#ffffff; border:2px solid #1DA1F2; border-radius:12px; padding:10px;" 
+       alt="duolingo stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true" 
-       height="150" 
-       style="background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;" />
+       height="160" 
+       style="background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;" 
+       alt="languages graph" />
 </p>
 
 ###
