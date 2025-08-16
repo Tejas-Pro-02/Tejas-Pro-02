@@ -1,14 +1,10 @@
-<h2 align="left">Hi 👋! My name is Tejas and this is my second GitHub account 🚀</h2>
+<h2 align="left">Hi 👋! My name is Tejas Khurd and I'm a passionate Full Stack Developer, from India</h2>
 
 ###
-<br clear="both">
-
-<!-- 👇 Snake animation at the end -->
-<img src="https://raw.githubusercontent.com/Tejas-Pro-02/Tejas-Pro-02/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Pro-02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Pro-02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- Most Used Languages Widget -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -52,9 +48,20 @@
 
 ###
 
-<br clear="both">
+<!-- Duolingo Widget -->
+<div align="center">
+  
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=KhurdTejas&sort=xp&theme=github-dark)
 
-<img src="https://raw.githubusercontent.com/Tejas-Pro-02/Tejas-Pro-02/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
+
+<br clear="both">
+
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Snake animation" />
+
+###
+
 
