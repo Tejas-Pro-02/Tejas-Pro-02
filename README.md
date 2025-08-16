@@ -6,11 +6,10 @@
 
 ###
 
-<!-- Social Links (Dark unique style, spaced) -->
+<!-- Social Links (Dark unique style, flush side by side) -->
 <a href="https://x.com/Khurd_Tejas" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="35" alt="twitter logo" />
 </a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tejas-s-khurd/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35" alt="linkedin logo" />
 </a>
@@ -38,6 +37,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 
 
