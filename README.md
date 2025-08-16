@@ -6,7 +6,7 @@
 
 ###
 
-<!-- Social Links (Dark unique style, with spacing) -->
+<!-- Social Links (Dark unique style, spaced) -->
 <a href="https://x.com/Khurd_Tejas" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="35" alt="twitter logo" />
 </a>
@@ -17,21 +17,16 @@
 
 ###
 
-<!-- Widgets row -->
-<table>
-  <tr>
-    <td>
-      <div style="background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;">
-        <img src="https://duolingo-stats-card.vercel.app/api?username=KhurdTejas&sort=xp&theme=dark" height="150" alt="duolingo stats" />
-      </div>
-    </td>
-    <td>
-      <div style="background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true" height="150" alt="languages graph" />
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- Widgets Row (side by side) -->
+<div align="left">
+  <div style="display:inline-block; background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px; margin-right:15px;">
+    <img src="https://duolingo-stats-card.vercel.app/api?username=KhurdTejas&sort=xp&theme=dark" height="150" alt="duolingo stats" />
+  </div>
+
+  <div style="display:inline-block; background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true" height="150" alt="languages graph" />
+  </div>
+</div>
 
 ###
 
