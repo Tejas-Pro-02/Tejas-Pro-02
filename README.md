@@ -5,6 +5,9 @@
 <div align="center">
   <!-- Most Used Languages Widget -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=false" height="150" alt="languages graph"  />
+  
+  <!-- Duolingo Widget -->
+  <img src="https://duolingo-stats-card.vercel.app/api?username=KhurdTejas&sort=xp&theme=github-dark" height="150" alt="duolingo stats" />
 </div>
 
 ###
@@ -48,20 +51,9 @@
 
 ###
 
-<!-- Duolingo Widget -->
-<div align="center">
-  
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=KhurdTejas&sort=xp&theme=github-dark)
-
-</div>
-
-###
-
 <br clear="both">
 
 <!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
