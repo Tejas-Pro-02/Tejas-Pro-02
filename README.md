@@ -17,15 +17,17 @@
 
 ###
 
-<!-- Widgets Row (side by side) -->
+<!-- Widgets Row -->
 <div align="left">
-  <div style="display:inline-block; background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px; margin-right:15px;">
+
+  <div style="display:inline-block; vertical-align:top; background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px; margin-right:15px;">
     <img src="https://duolingo-stats-card.vercel.app/api?username=KhurdTejas&sort=xp&theme=dark" height="150" alt="duolingo stats" />
   </div>
 
-  <div style="display:inline-block; background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;">
+  <div style="display:inline-block; vertical-align:top; background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true" height="150" alt="languages graph" />
   </div>
+
 </div>
 
 ###
@@ -36,5 +38,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 
