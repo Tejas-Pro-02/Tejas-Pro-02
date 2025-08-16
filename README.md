@@ -1,14 +1,12 @@
-<h2 align="center">Hi there 👋</h2>
+<h2>Hi there 👋</h2>
 
 ###
 
-<div align="center">
-  <img src="https://usagif.com/wp-content/uploads/gify/one-piece-anime-usagif-animation-11.gif" height="200" alt="luffy gif" />
-</div>
+<img src="https://usagif.com/wp-content/uploads/gify/one-piece-anime-usagif-animation-11.gif" height="200" alt="luffy gif" />
 
 ###
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; gap: 20px;">
 
   <!-- Duolingo Widget -->
   <div style="background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;">
@@ -26,19 +24,17 @@
 
 <br clear="both">
 
-<!-- Snake animation -->
+<!-- Snake animation (centered) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://x.com/Khurd_Tejas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tejas-s-khurd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<a href="https://x.com/Khurd_Tejas" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</a>
+<a href="https://www.linkedin.com/in/tejas-s-khurd/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
 
